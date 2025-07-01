@@ -1,7 +1,7 @@
 # Portfolio [ENGLISH & SPANISH]
 
 ¡Bienvenido a mi portfolio de programación!  
-Aquí encontrarás una selección de mis mini proyectos en Python y recursos que muestran mi aprendizaje y evolución como desarrollador.
+Aquí encontrarás una selección de mis mini proyectos en Python y recursos que muestran mi aprendizaje y evolución como desarrolladora.
 
 ## Sobre mí
 
@@ -9,11 +9,9 @@ Soy un entusiasta de la programación en Python. Me gusta aprender resolviendo r
 
 ## Proyectos destacados
 
-- [Calculadora simple](proyectos/calculadora/README.md)
 - [Juego de adivinanza de números](proyectos/adivinanza/README.md)
-- [Analizador de texto](proyectos/analizador_texto/README.md)
+- [Juego de adivinanza de palabras](proyectos/adivinanza/README.md)
 
-*(Agrega aquí más enlaces a tus proyectos a medida que los vayas creando)*
 
 ## Habilidades
 
