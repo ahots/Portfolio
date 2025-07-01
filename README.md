@@ -1,4 +1,4 @@
-# Portfolio
+# Portfolio [ENGLISH & SPANISH]
 
 ¡Bienvenido a mi portfolio de programación!  
 Aquí encontrarás una selección de mis mini proyectos en Python y recursos que muestran mi aprendizaje y evolución como desarrollador.
