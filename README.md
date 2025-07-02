@@ -1,25 +1,25 @@
-# Portfolio [ENGLISH & SPANISH]
+# Portfolio
 
-¡Bienvenido a mi portfolio de programación!  
-Aquí encontrarás una selección de mis mini proyectos en Python y recursos que muestran mi aprendizaje y evolución como desarrolladora.
+Welcome to my coding journey!
+Here you will see a selection of my mini Python projects and resources showing my learning as a developer.
 
-## Sobre mí
 
-Soy un entusiasta de la programación en Python. Me gusta aprender resolviendo retos y creando pequeños proyectos prácticos. Este espacio busca documentar mi avance y servir como muestra de mis conocimientos.
+## About me
 
-## Proyectos destacados
+I am a physicist who wants to broaden my abilities. I like to learn to resolve challenges and build little practical projects. In this space, I am seeking to document my progress and to serve as a sample of my abilities. 
+
+
+## Beginner level project
 
 - [Juego de adivinanza de números](proyectos/adivinanza/README.md)
 - [Juego de adivinanza de palabras](proyectos/adivinanza/README.md)
 
 
-## Habilidades
+## Abilities
 
-- Python (básico/intermedio)
-- Uso de Git y GitHub
-- Automatización de scripts
 
-## Contacto
 
-- [Tu linkedin] 
-- [Tu correo electrónico]
+## Contact
+
+- [www.linkedin.com/in/nagore-unibaso-66a85a1aa] 
+- [nagoreunibaso@gmial.com] 
