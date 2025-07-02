@@ -9,7 +9,7 @@ Here you will see a selection of my mini Python projects and resources showing m
 I am a physicist who wants to broaden my abilities. I like to learn by resolving challenges and building little practical projects. In this space, I am seeking to document my progress and to serve as a sample of my abilities. 
 
 
-## Beginner level project
+## Beginner level projects
 
 - [Number guessing game](proyectos/adivinanza/README.md)
 
