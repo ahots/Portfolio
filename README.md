@@ -1,25 +1,48 @@
-# Portfolio
+# Number Guessing Game
 
-Welcome to my coding journey!
-Here you will see a selection of my mini Python projects and resources showing my learning as a developer.
+This repository contains a simple **Number Guessing Game** implemented in Python. The script can be found at `Portfolio/Number guessing game.py`.
 
+## Description
 
-## About me
+The Number Guessing Game is a console-based Python game where the computer selects a random number, and the player must guess it within a certain number of attempts. After each guess, the game provides feedback indicating whether the guess was too high, too low, or correct.
 
-I am a physicist who wants to broaden my abilities. I like to learn by resolving challenges and building little practical projects. In this space, I am seeking to document my progress and to serve as a sample of my abilities. 
+## How to Use
 
+1. **Clone this repository** or download the script.
+2. Make sure you have [Python 3.x](https://www.python.org/downloads/) installed.
+3. Open a terminal and navigate to the root directory of this repository.
 
-## Beginner level projects
+Run the game with:
 
-- [Number guessing game](proyectos/adivinanza/README.md)
+```bash
+python "Portfolio/Number guessing game.py"
+```
 
+## Dependencies
 
+- Python 3.x (no external libraries required)
 
-## Abilities
+## Example
 
+```
+Welcome to the Number Guessing Game!
+I'm thinking of a number between 1 and 100.
+You have 10 attempts to guess it.
 
+Enter your guess: 42
+Too low!
 
-## Contact
+Enter your guess: 68
+Too high!
 
-- [www.linkedin.com/in/nagore-unibaso-66a85a1aa] 
-- [nagoreunibaso@gmial.com] 
+...
+Congratulations! You guessed the number in 5 attempts!
+```
+
+## Author
+
+[Your Name Here]
+
+## License
+
+This project is licensed under the MIT License.
